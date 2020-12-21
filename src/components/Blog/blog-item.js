@@ -2,7 +2,6 @@ import React from "react"
 import styled from "styled-components"
 import { Link } from "gatsby"
 import Button from "../../components/Button/button"
-import Img from "gatsby-image"
 
 const BlogItem = styled.article`
   margin: calc(var(--spacing) * 4) 0;
@@ -20,26 +19,6 @@ const BlogItem = styled.article`
   @media (min-width: 1200px) {
     margin: calc(var(--spacing) * 8) 0;
     grid-gap: calc(var(--spacing) * 3);
-  }
-`
-
-const BlogImage = styled.div`
-  grid-column: 1 / 3;
-  grid-row: 1 / 2;
-  overflow: hidden;
-  background-color: #000;
-
-  figure {
-    margin: 0;
-    opacity: 1;
-    transition: transform var(--transSlow), opacity var(--transSlow);
-  }
-
-  &:hover {
-    figure {
-      opacity: 0.5;
-      transform: scale(1.1);
-    }
   }
 `
 
@@ -90,13 +69,6 @@ const BlogContent = styled.div`
 const BlogList = ({ key, fluid, title, excerpt, path, date, alt }) => {
   return (
     <BlogItem key={key}>
-      <BlogImage>
-        <figure>
-          <Link to={path}>
-            <Img fluid={fluid} alt={alt} />
-          </Link>
-        </figure>
-      </BlogImage>
       <BlogTitle>
         <Link to={path}>
           <h2>{title}</h2>

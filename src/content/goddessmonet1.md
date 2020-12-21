@@ -1,9 +1,7 @@
 ---
 title: goddessmonet1
 description: goddessmonet1 Information about this user
-date: 2019-08-26
 path: /goddessmonet1
-featuredImage: ./images/dog.jpg
 author: Rudix
 ---
 

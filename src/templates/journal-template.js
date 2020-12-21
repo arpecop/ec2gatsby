@@ -46,7 +46,7 @@ const PagerNumbers = styled.div`
   }
 `
 
-const JournalTemplate = (props) => {
+const JournalTemplate = props => {
   const { edges } = props.data.allMarkdownRemark
 
   const { currentPage, numPages } = props.pageContext
@@ -76,7 +76,6 @@ const JournalTemplate = (props) => {
           excerpt={node.excerpt}
           path={node.frontmatter.path}
           date={node.frontmatter.date}
-          tag={node.frontmatter.tags}
         />
       ))}
       {/* Paging controls
@@ -131,16 +130,7 @@ export const journalQuery = graphql`
           id
           frontmatter {
             title
-            date(formatString: "MMMM DD, YY")
             path
-            tags
-            featuredImage {
-              childImageSharp {
-                fluid {
-                  ...GatsbyImageSharpFluid
-                }
-              }
-            }
           }
           excerpt
         }

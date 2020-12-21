@@ -1,65 +1,7 @@
 import React from "react"
 import { useLocation } from "@reach/router"
-import { Link, graphql } from "gatsby"
+import { graphql } from "gatsby"
 import Seo from "../components/SEO"
-import Img from "gatsby-image"
-import styled from "styled-components"
-import Share from "../components/Share/share-container"
-import Button from "../components/Button/button"
-
-const PostMeta = styled.aside`
-  h2 {
-    font-size: var(--h4);
-    color: var(--primaryColor);
-    margin: calc(var(--spacing) / 2) 0;
-  }
-`
-
-const PostImage = styled.div`
-  margin: calc(var(--spacing) * 2) 0;
-
-  @media (min-width: 1200px) {
-    margin: calc(var(--spacing) * 4) 0;
-  }
-`
-
-const PostedTitle = styled.h4`
-  font-weight: 400;
-  font-size: var(--h4);
-  color: var(--primaryColor);
-
-  a {
-    text-decoration: none;
-    margin-right: calc(var(--spacing) / 2);
-    position: relative;
-
-    &:after {
-      content: "";
-      display: block;
-      position: absolute;
-      height: 0.1rem;
-      width: 100%;
-      background-color: var(--charcoal);
-      left: 0;
-      bottom: -0.25rem;
-      opacity: 1;
-      transition: opacity var(--transSlow);
-    }
-
-    &:hover,
-    &:focus {
-      cursor: pointer;
-
-      &:after {
-        opacity: 0.15;
-      }
-    }
-
-    &::last-child {
-      margin-right: 0;
-    }
-  }
-`
 
 export default function Template({ data }) {
   let location = useLocation()
@@ -81,23 +23,6 @@ export default function Template({ data }) {
           className="blog-post-content"
           dangerouslySetInnerHTML={{ __html: html }}
         />
-
-        {/* If there are tags for the post, render this section */}
-        {frontmatter.tags && (
-          <>
-            <hr />
-            <PostedTitle>
-              Posted under /{" "}
-              {frontmatter.tags.map((tagName, index) => {
-                return (
-                  <Link to={`/tags/${tagName}`} key={index}>
-                    {tagName}
-                  </Link>
-                )
-              })}
-            </PostedTitle>
-          </>
-        )}
       </div>
     </>
   )
@@ -110,7 +35,6 @@ export const pageQuery = graphql`
         date(formatString: "MMMM DD, YYYY")
         path
         title
-        tags
         description
         author
       }

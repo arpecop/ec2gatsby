@@ -7,7 +7,6 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
   // Page Templates
   const pageTemplate = path.resolve("src/templates/page-template.js")
   const blogTemplate = path.resolve("src/templates/post.js")
-  const tagTemplate = path.resolve("src/templates/tags.js")
 
   const result = await graphql(`
     {
@@ -16,15 +15,8 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
           node {
             frontmatter {
               path
-              tags
             }
           }
-        }
-      }
-      tagsGroup: allMarkdownRemark(limit: 2000) {
-        group(field: frontmatter___tags) {
-          fieldValue
-          totalCount
         }
       }
     }
@@ -86,19 +78,6 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
         skip: i * postsPerPage,
         numPages,
         currentPage: i + 1,
-      },
-    })
-  })
-
-  // Make Tag Pages
-  const tags = result.data.tagsGroup.group
-
-  tags.forEach((tag, i) => {
-    createPage({
-      path: `/tags/${_.kebabCase(tag.fieldValue)}`,
-      component: tagTemplate,
-      context: {
-        tag: tag.fieldValue,
       },
     })
   })
