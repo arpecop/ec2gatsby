@@ -2,7 +2,7 @@ import React, { useState } from "react"
 import styled from "styled-components"
 import { useStaticQuery, Link, graphql } from "gatsby"
 import "../scss/main.scss"
-import Logo from "../content/images/bonneville-logo.svg"
+import Logo from "../content/images/bonneville-logo.png"
 
 export default ({ children }) => {
   const [menuStatus, menuChange] = useState(false)
