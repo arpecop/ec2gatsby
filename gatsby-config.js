@@ -7,7 +7,7 @@
 module.exports = {
   /* Your site config here */
   siteMetadata: {
-    title: `Bonneville`,
+    title: `userz`,
     titleTemplate: `%s | A starter theme for Gatsby`,
     description: `A starter theme for Gatsby`,
     siteUrl: `https://bonneville.netlify.com`,
