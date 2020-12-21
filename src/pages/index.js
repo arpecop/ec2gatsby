@@ -28,7 +28,6 @@ export default ({ data }) => {
           excerpt={node.excerpt}
           path={node.frontmatter.path}
           date={node.frontmatter.date}
-          alt={node.frontmatter.featuredImageAlt}
           tag={node.frontmatter.tags}
         />
       ))}
@@ -58,7 +57,6 @@ export const query = graphql`
                 }
               }
             }
-            featuredImageAlt
           }
           excerpt
         }
