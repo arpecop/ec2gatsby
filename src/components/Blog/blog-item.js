@@ -108,7 +108,6 @@ const BlogList = ({ key, fluid, title, excerpt, path, date, alt }) => {
           <Link className="btn-link" to={path}>
             <Button />
           </Link>
-          <h4>{date}</h4>
         </BlogMeta>
       </BlogContent>
     </BlogItem>
