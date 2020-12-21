@@ -7,9 +7,9 @@ import Logo from "../content/images/bonneville-logo.png"
 export default ({ children }) => {
   const [menuStatus, menuChange] = useState(false)
 
-  const ListLink = props => (
+  const ListLink = ({ to, children }) => (
     <li className="nav-link">
-      <Link to={props.to}>{props.children}</Link>
+      <Link to={to}>{children}</Link>
     </li>
   )
 

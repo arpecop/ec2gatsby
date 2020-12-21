@@ -15,8 +15,8 @@ export default ({ data }) => {
     <>
       <Seo />
       <h1>
-        My name is Bonneville. I'm a starter theme for Gatsby and I like to talk
-        as if I am a living thing
+        My name is rudiX. I'm a cyberpunk and I like to talk as if I am a living
+        thing
       </h1>
       <FeaturedItems>
         {allMarkdownRemark.totalCount} Featured Posts
