@@ -8,9 +8,9 @@ module.exports = {
   /* Your site config here */
   siteMetadata: {
     title: `userz`,
-    titleTemplate: `%s | A starter theme for Gatsby`,
-    description: `A starter theme for Gatsby`,
-    siteUrl: `https://bonneville.netlify.com`,
+    titleTemplate: `%s`,
+    description: ``,
+    siteUrl: `https://userz.net/`,
     image: `/images/color.jpg`,
     author: `Morgan Baker`,
     authorSite: `https://www.morganbaker.dev`,
