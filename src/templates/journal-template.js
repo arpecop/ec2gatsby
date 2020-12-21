@@ -74,7 +74,6 @@ const JournalTemplate = props => {
           title={node.frontmatter.title}
           excerpt={node.excerpt}
           path={node.frontmatter.path}
-          date={node.frontmatter.date}
         />
       ))}
       {/* Paging controls
