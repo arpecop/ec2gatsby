@@ -71,7 +71,6 @@ const JournalTemplate = props => {
       </p>
       {edges.map(({ node }) => (
         <BlogItem
-          fluid={node.frontmatter.featuredImage.childImageSharp.fluid}
           title={node.frontmatter.title}
           excerpt={node.excerpt}
           path={node.frontmatter.path}
@@ -120,11 +119,7 @@ export default JournalTemplate
 
 export const journalQuery = graphql`
   query journalQuery($skip: Int!, $limit: Int!) {
-    allMarkdownRemark(
-      sort: { fields: [frontmatter___date], order: DESC }
-      limit: $limit
-      skip: $skip
-    ) {
+    allMarkdownRemark(limit: $limit, skip: $skip) {
       edges {
         node {
           id
