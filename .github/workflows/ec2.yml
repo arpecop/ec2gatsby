@@ -1,0 +1,19 @@
+name: scp files
+on:
+  push:
+    branches:
+      - gh-pages
+jobs:
+  build:
+    name: Build
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@master
+      - name: copy file via ssh password
+        uses: appleboy/scp-action@master
+        with:
+          host: 34.249.33.3
+          username: ubuntu
+          key: ${{ secrets.KEY }}
+          source: "./"
+          target: "userz"
