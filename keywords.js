@@ -1,0 +1,103 @@
+const fs = require("fs")
+const keywords = [
+  "goddessmonet1",
+  "puddyls",
+  "atribecalledval",
+  "exoticaslim",
+  "mroyal88",
+  "eduhauer",
+  "frostedaline",
+  "afghanshawty",
+  "applepigeon",
+  "oraltbh",
+  "daisyxlaine",
+  "theoctunnumi",
+  "18transbabyblue",
+  "carnivalouswalt",
+  "alterpinay",
+  "superluckeee",
+  "indianmenonline",
+  "glamprinny",
+  "avrilbellon",
+  "wwg1wha",
+  "อิแด๊ด น้องโร้ค",
+  "musclegodjay",
+  "wvrldwo",
+  "laurenhulsey96",
+  "lilcookiewhore",
+  "candurular",
+  "athenalove30",
+  "kmcartoons",
+  "nicegirlmeg",
+  "ganjamom420",
+  "bbquelse",
+  "ayyeejohannna",
+  "moa2a94",
+  "thechanelrenee",
+  "alterbagets",
+  "tyylerrrjane_",
+  "xtina_maria7",
+  "wingyithepoon",
+  "channelstheapp",
+  "lhtskn",
+  "therealmrexotic",
+  "giantessnyx",
+  "fashionistaaxo",
+  "slave4cash",
+  "imerika_jade",
+  "wankbattle",
+  "sultry_nicole",
+  "movies2k2",
+  "jakolerongbata",
+  "muggledalal",
+  "annie22551",
+  "soulsxcker",
+  "forzaslan57",
+  "nepatitisc",
+  "potatotaco94",
+  "oyohmy",
+  "ameliurgh",
+  "bbqanon",
+  "justin_bryant8",
+  "rvvvvzo",
+  "fmchtt",
+  "nbjen",
+  "iamcanyildiz",
+  "padarenka",
+  "ashexplicit",
+  "stephsofanny",
+  "viole7x",
+  "ceoofemokids",
+  "carliiha22",
+  "letslovelots",
+  "pearlypoesis",
+  "elitabethxx",
+  "karuzol",
+  "cashmastermatt3",
+  "reynolljr18",
+  "meanmissqueen",
+  "honeymunnymoon",
+  "vamosankit",
+  "sadgalkorie",
+  "ava_ustina",
+  "dillon6736",
+  "gh0bbs16",
+]
+
+keywords.forEach(element => {
+  fs.writeFile(
+    "./src/content/" + element + ".md",
+    `---
+title: ${element}
+description: Top adult content creator 👁♐️ 👑 subscribe to my porn site below IG Missskaylax
+date: 2019-08-26
+path: /${element}
+---
+
+${element}`,
+    function(err) {
+      if (err) return console.log(err)
+      console.log("Hello World > helloworld.txt")
+    }
+  )
+})

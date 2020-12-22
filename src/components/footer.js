@@ -1,6 +1,6 @@
 import React from "react"
 import styled from "styled-components"
-import { useStaticQuery, Link, graphql } from "gatsby"
+import { Link } from "gatsby"
 import socials from "../constants/social-icons"
 
 export default ({ children }) => {
@@ -11,19 +11,6 @@ export default ({ children }) => {
   )
 
   const showYear = new Date().getFullYear()
-
-  const data = useStaticQuery(
-    graphql`
-      query {
-        site {
-          siteMetadata {
-            author
-            authorSite
-          }
-        }
-      }
-    `
-  )
 
   const FooterMenu = styled.ul`
     padding: 0;

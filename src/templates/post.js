@@ -1,10 +1,9 @@
 import React from "react"
-import { useLocation } from "@reach/router"
+
 import { graphql } from "gatsby"
 import Seo from "../components/SEO"
 
 export default function Template({ data }) {
-  let location = useLocation()
   const { markdownRemark } = data // Object destructuring
   const { frontmatter, html } = markdownRemark // Object destructuring og markdownRemark
 
@@ -36,7 +35,6 @@ export const pageQuery = graphql`
         path
         title
         description
-        author
       }
     }
   }
