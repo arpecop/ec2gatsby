@@ -76,11 +76,6 @@ const BlogList = ({ key, fluid, title, excerpt, path, date, alt }) => {
       </BlogTitle>
       <BlogContent>
         <p>{excerpt}</p>
-        <BlogMeta>
-          <Link className="btn-link" to={path}>
-            <Button />
-          </Link>
-        </BlogMeta>
       </BlogContent>
     </BlogItem>
   )
