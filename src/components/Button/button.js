@@ -4,7 +4,7 @@ import styled from "styled-components"
 const Button = props => {
   return (
     <ButtonWrapper type={props.type}>
-      {props.text ? props.text : "Read Article"}{" "}
+      {props.text ? props.text : "Read Article"}
     </ButtonWrapper>
   )
 }
