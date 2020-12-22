@@ -1,8 +1,7 @@
 import React, { useState } from "react"
 import styled from "styled-components"
-import { useStaticQuery, Link, graphql } from "gatsby"
+import { Link } from "gatsby"
 import "../scss/main.scss"
-import Logo from "../content/images/bonneville-logo.png"
 
 export default ({ children }) => {
   const [menuStatus, menuChange] = useState(false)
@@ -11,18 +10,6 @@ export default ({ children }) => {
     <li className="nav-link">
       <Link to={to}>{children}</Link>
     </li>
-  )
-
-  const data = useStaticQuery(
-    graphql`
-      query {
-        site {
-          siteMetadata {
-            title
-          }
-        }
-      }
-    `
   )
 
   const HeaderCont = styled.div`
@@ -154,7 +141,7 @@ export default ({ children }) => {
         <header className="header-cont">
           <div className="logo-cont">
             <Link to="/">
-              <img src={Logo} alt={data.site.siteMetadata.title} />
+              <img src="/img/logo.png" alt="userz"></img>
             </Link>
           </div>
           <button className="btn" onClick={() => menuChange(!menuStatus)}>
