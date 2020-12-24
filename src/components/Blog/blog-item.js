@@ -1,7 +1,6 @@
 import React from "react"
 import styled from "styled-components"
 import { Link } from "gatsby"
-import Button from "../../components/Button/button"
 
 const BlogItem = styled.article`
   margin: calc(var(--spacing) * 4) 0;
@@ -36,17 +35,6 @@ const BlogTitle = styled.div`
 
   @media (min-width: 768px) {
     grid-column: 1 / 2;
-  }
-`
-
-const BlogMeta = styled.div`
-  display: flex;
-  justify-content: space-between;
-
-  h4 {
-    margin: 0;
-    font-size: var(--h5);
-    color: var(--primaryColor);
   }
 `
 

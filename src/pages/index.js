@@ -18,7 +18,6 @@ export default ({ data }) => {
           title={node.frontmatter.title}
           excerpt={node.excerpt}
           path={node.frontmatter.path}
-          date={node.frontmatter.date}
         />
       ))}
     </>

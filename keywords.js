@@ -82,6 +82,47 @@ const keywords = [
   "ava_ustina",
   "dillon6736",
   "gh0bbs16",
+  //
+  "mroyal88",
+  "gncms",
+  "arianaaao",
+  "surrealzak",
+  "nicegirlmeg",
+  "ayoo_anto",
+  "thenymphotweets",
+  "thefernijr",
+  "jamzlndon",
+  "tweet2ish",
+  "vanayillaswirl",
+  "nellimamita",
+  "facepalmchris",
+  "@fentyaysher",
+  "@calpolkidsf",
+  "atribecalledval",
+  "exo_sonini",
+  "oyohmy",
+  "candurular",
+  "potatotaco94",
+  "goddessmonet1",
+  "shawnriannebl",
+  "forzaslan57",
+  "beni kaybetmeye çalışıyor gibisin",
+  "ayeeekim_",
+  "steph_funn_knee",
+  "jennng12",
+  "sadittychick_xo",
+  "a7md_sheriff",
+  "@succubusnemu",
+  "eduhauer",
+  "straubberryy",
+  "niniheartsss",
+  "sarapngbagets",
+  "abtchv",
+  "elliescanlan7",
+  "melektemiizz",
+  "carnivalouswalt",
+  "annaiekt",
+  "briannaga20",
 ]
 
 keywords.forEach(element => {
@@ -89,7 +130,7 @@ keywords.forEach(element => {
     "./src/content/" + element + ".md",
     `---
 title: ${element}
-description: Top adult content creator 👁♐️ 👑 subscribe to my porn site below IG Missskaylax
+description: Top ${element} adult content creator 👁♐️ 👑 subscribe ${element} to my porn site below IG ${element}
 date: 2019-08-26
 path: /${element}
 ---
