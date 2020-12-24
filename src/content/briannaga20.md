@@ -6,3 +6,5 @@ path: /briannaga20
 ---
 
 briannaga20
+[{"title":"BRI🪐 (@briannaga20) | Twitter","url":"https://twitter.com/briannaga20?lang=en"},{"title":"BRI🪐 on Twitter: \"woke up literally with my whole fit on ...","url":"https://twitter.com/briannaga20/status/1320416034604650497"},{"title":"Old Tweets: maritzaa002 (M  ) - Tweet Tunnel","url":"https://tweettunnel.com/maritzaa002"},{"title":"6116 Chronological - Red Circle - iEmoji.com","url":"https://www.iemoji.com/view/emojitweets/489/symbols/red-circle/chronological/6116"},{"title":"BRÍ (@Brivera14Bri) のツイート - ツイセーブ","url":"https://twisave.com/Brivera14Bri"}]
+
