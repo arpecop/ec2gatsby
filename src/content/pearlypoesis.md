@@ -6,3 +6,5 @@ path: /pearlypoesis
 ---
 
 pearlypoesis
+[{"title":"christmas baby (@pearlypoesis) | Twitter","url":"https://twitter.com/pearlypoesis?lang=en"},{"title":"girl in red on Twitter: \"i'm sorry for party rocking… \"","url":"https://twitter.com/pearlypoesis/status/1160677611300884480"},{"title":"pearlypoesis","url":"https://incubator.netlify.app/u/pearlypoesis"},{"title":"‎amanda's profile • Letterboxd","url":"https://letterboxd.com/hurlingpearls/"},{"title":"Twitter - Hello Talladega","url":"https://www.media1.hellotalladega.com/tweets?url=pearlypoesis"}]
+
