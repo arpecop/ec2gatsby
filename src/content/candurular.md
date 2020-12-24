@@ -6,3 +6,5 @@ path: /candurular
 ---
 
 candurular
+[{"title":"Twitter","url":"https://mobile.twitter.com/CanDurular/media/grid"},{"title":"memoli (@CanDurular) | Twitter","url":"https://twitter.com/candurular?lang=en"},{"title":"Can Durular | Facebook","url":"https://www.facebook.com/can.durular.14/photos"},{"title":"can-durular Profiles | Facebook","url":"https://m.facebook.com/public/Can-Durular"},{"title":"Old Tweets: CanDurular (memoli) - Tweet Tunnel","url":"http://tweettunnel.com/CanDurular"}]
+

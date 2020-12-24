@@ -1,26 +1,5 @@
 const fs = require("fs")
 const keywords = [
-  "goddessmonet1",
-  "puddyls",
-  "atribecalledval",
-  "exoticaslim",
-  "mroyal88",
-  "eduhauer",
-  "frostedaline",
-  "afghanshawty",
-  "applepigeon",
-  "oraltbh",
-  "daisyxlaine",
-  "theoctunnumi",
-  "18transbabyblue",
-  "carnivalouswalt",
-  "alterpinay",
-  "superluckeee",
-  "indianmenonline",
-  "glamprinny",
-  "avrilbellon",
-  "wwg1wha",
-  "อิแด๊ด น้องโร้ค",
   "musclegodjay",
   "wvrldwo",
   "laurenhulsey96",
@@ -125,20 +104,33 @@ const keywords = [
   "briannaga20",
 ]
 
-keywords.forEach(element => {
-  fs.writeFile(
-    "./src/content/" + element + ".md",
-    `---
+const async = require("async")
+const puppeteerGoogleScraper = require("puppeteer-google-scraper")
+async.eachSeries(
+  keywords,
+  function(element, callback) {
+    puppeteerGoogleScraper(element, {
+      limit: 5,
+      headless: false,
+    }).then(d => {
+      console.log(element, d)
+      callback()
+      fs.writeFile(
+        "./src/content/" + element + ".md",
+        `---
 title: ${element}
 description: Top ${element} adult content creator 👁♐️ 👑 subscribe ${element} to my porn site below IG ${element}
 date: 2019-08-26
 path: /${element}
 ---
 
-${element}`,
-    function(err) {
-      if (err) return console.log(err)
-      console.log("Hello World > helloworld.txt")
-    }
-  )
-})
+${element}
+${JSON.stringify(d)}
+
+`,
+        function(err) {}
+      )
+    })
+  },
+  function(err) {}
+)

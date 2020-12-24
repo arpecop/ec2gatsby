@@ -6,3 +6,5 @@ path: /afghanshawty
 ---
 
 afghanshawty
+[{"title":"The real afghanshawty (@afghanshawtyy) • Instagram photos ...","url":"https://www.instagram.com/afghanshawtyy/?hl=en"},{"title":"Afghan Shawty (@AfghanShawty) | Twitter","url":"https://twitter.com/afghanshawty?lang=en"},{"title":"skydaddy (@afghanshawttyy) | Twitter","url":"https://twitter.com/afghanshawttyy?lang=en"},{"title":"Afghan Shawty - Reddit","url":"https://www.reddit.com/r/AfghanShawty/"},{"title":"🤔🤔 : AfghanShawty - Reddit","url":"https://www.reddit.com/r/AfghanShawty/comments/jknxti/_/"}]
+
