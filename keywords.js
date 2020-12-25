@@ -1,14 +1,5 @@
 const fs = require("fs")
 const keywords = [
-  "frankiedale4you",
-  "ninachase52",
-  "po_chf",
-  "wally9519",
-  "fineass_tk",
-  "jteaseee",
-  "oh_thatsro",
-  "miggzsenor",
-  "twitter aleahtweetie_",
   "illbeyourocean",
   "nalvaney",
   "melektemiizz",

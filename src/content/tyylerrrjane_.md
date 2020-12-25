@@ -6,5 +6,5 @@ path: /tyylerrrjane_
 ---
 
 tyylerrrjane_
-[{"title":"tyler (@tyylerrrjane_) | Twitter","url":"https://twitter.com/tyylerrrjane_?lang=en"},{"title":"tyler on Twitter: \"So are we hehe xxx… \"","url":"https://twitter.com/tyylerrrjane_/status/1249010729782566913?lang=en"},{"title":"🦋  tyler 🦋 (@tylerrrjaneee_) • Instagram photos and videos","url":"https://www.instagram.com/tylerrrjaneee_/"},{"title":"Tyylerrrjane_ - Leaked links - Onlyleaks.me","url":"https://www.onlyleaks.me/archive/Tyylerrrjane_-556"},{"title":"Tyylerrrjane_ - Leaked links - Onlyleaks.me","url":"https://www.onlyleaks.me/archive/Tyylerrrjane_-51"}]
+[{"title":"tyler (@tyylerrrjane_) | টুইটার - Twitter","url":"https://twitter.com/tyylerrrjane_?lang=bg"},{"title":"tyler в Twitter: \"I'm hoping lovely :( x… \"","url":"https://twitter.com/tyylerrrjane_/status/1250430271662391296?lang=bg"},{"title":"🦋  tyler 🦋 (@tylerrrjaneee_) • Instagram photos and videos","url":"https://www.instagram.com/tylerrrjaneee_/"},{"title":"Tyylerrrjane_ - Leaked links - Onlyleaks.me","url":"https://www.onlyleaks.me/archive/Tyylerrrjane_-556"},{"title":"Tyylerrrjane_ - Leaked links - Onlyleaks.me","url":"https://www.onlyleaks.me/archive/Tyylerrrjane_-51"}]
 

@@ -6,5 +6,5 @@ path: /reynolljr18
 ---
 
 reynolljr18
-[{"title":"Reynoll Puerto Jr (@ReynollJr18) | Twitter","url":"https://twitter.com/reynolljr18?lang=en"},{"title":"Reynoll Puerto Jr on Twitter: \"So should I buy E-Girls to play ...","url":"https://twitter.com/ReynollJr18/status/1247233970762182657"},{"title":"#nxsalon","url":"https://incubator.netlify.app/t/nxsalon"}]
+[{"title":"Reynoll Puerto Jr (@ReynollJr18) | Twitter","url":"https://twitter.com/reynolljr18?lang=bg"},{"title":"Reynoll Puerto Jr on Twitter: \"So should I buy E-Girls to play ...","url":"https://twitter.com/ReynollJr18/status/1247233970762182657"},{"title":"#nxsalon","url":"https://incubator.netlify.app/t/nxsalon"}]
 

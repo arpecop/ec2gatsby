@@ -6,5 +6,5 @@ path: /elliescanlan7
 ---
 
 elliescanlan7
-[{"title":"elliescanlan (@elliescanlan7) • Instagram photos and videos","url":"https://www.instagram.com/elliescanlan7/?hl=en"},{"title":"es (@elliescanlan7) · Twitter","url":"https://twitter.com/elliescanlan7?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"},{"title":"elliescanlan7 - Twitter","url":"https://twitter.com/elliescanlan7/status/1295730932733943809"},{"title":"elliescanlan(@elliescanlan7) | TikTok","url":"https://www.tiktok.com/@elliescanlan7"},{"title":"es (@elliescanlan7) のツイート - ツイセーブ","url":"https://twisave.com/elliescanlan7"}]
+[{"title":"elliescanlan (@elliescanlan7) • Instagram photos and videos","url":"https://www.instagram.com/elliescanlan7/"},{"title":"es (@elliescanlan7) | Twitter","url":"https://twitter.com/elliescanlan7"},{"title":"es в Twitter: \"Honestly nothing I hate more than being woke up\"","url":"https://twitter.com/elliescanlan7/status/1258303635345281027?lang=bg"},{"title":"es (@elliescanlan7) のツイート - ツイセーブ","url":"https://twisave.com/elliescanlan7"},{"title":"19360 Chronological - Tired Face - iEmoji.com","url":"https://www.iemoji.com/view/emojitweets/824/smileys-people/tired-face/chronological/19360"}]
 
