@@ -6,5 +6,5 @@ path: /alterpinay
 ---
 
 alterpinay
-[{"title":"#alterpinay hashtag on Twitter","url":"https://twitter.com/hashtag/alterpinay?lang=en"},{"title":"#alterpinay - Twitter Search","url":"https://twitter.com/search?q=%23alterpinay"},{"title":"#alterpinay hashtag on Instagram • Photos and Videos","url":"https://www.instagram.com/explore/tags/alterpinay/top/?hl=en"},{"title":"alterpinay, The Visualized Search","url":"https://thevisualized.com/search/%2523alterpinay"},{"title":"alterpinay, The Visualized Search","url":"https://thevisualized.com/twitter/tweets/%2523alterpinay"}]
+[{"title":"jxc (@alterpinay) | Twitter","url":"https://twitter.com/alterpinay"},{"title":"#alterpinay hashtag on Twitter","url":"https://twitter.com/hashtag/alterpinay"},{"title":"#alterpinay хаштаг в Instagram • Снимки и видеоклипове","url":"https://www.instagram.com/explore/tags/alterpinay/top/?hl=bg"},{"title":"#alterpinay hashtag on Instagram • Photos and Videos","url":"https://www.instagram.com/explore/tags/alterpinay/top/"},{"title":"alterpinay, The Visualized Search","url":"https://thevisualized.com/search/%2523alterpinay"}]
 

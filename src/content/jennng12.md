@@ -6,5 +6,5 @@ path: /jennng12
 ---
 
 jennng12
-[{"title":"Jennn     (@JennnG12) | Twitter","url":"https://twitter.com/jennng12"},{"title":"Jennn     on Twitter: \"Jennifer + Cameron… \"","url":"https://twitter.com/jennng12/status/1317221266454155266"},{"title":"jenny   (@jenn.ng12) • Снимки и видеоклипове в Instagram","url":"https://www.instagram.com/jenn.ng12/?hl=bg"},{"title":"Jennifer ng (jennng12) on Pinterest","url":"https://www.pinterest.com/jennng12/"},{"title":"About Us | Women's Book Club","url":"https://professinggodliness.wordpress.com/about-us/"}]
+[{"title":"Jennn     (@JennnG12) | Twitter","url":"https://twitter.com/jennng12"},{"title":"Jennn     в Twitter: \"Jennifer + Cameron… \"","url":"https://twitter.com/jennng12/status/1317221266454155266?lang=bg"},{"title":"Jennifer ng (jennng12) on Pinterest","url":"https://www.pinterest.com/jennng12/"},{"title":"#redefinedhr","url":"https://incubator.netlify.app/t/redefinedhr"},{"title":". (@JoseSierra_18) 's Twitter followings • TwiCopy","url":"https://trendtwitter.com/JoseSierra_18/following"}]
 
