@@ -12,15 +12,15 @@ export default function Template({ data }) {
       <Seo title={frontmatter.title} description={frontmatter.description} />
       <div className="blog-post">
         <h1>{frontmatter.title}</h1>
+
+        {/* Check if date or author has been declared in MD file
+        If so, render the meta */}
+
+        {/* If featured image is present, render featured image */}
+
         <div
           className="blog-post-content"
           dangerouslySetInnerHTML={{ __html: html }}
-        />
-        <div
-          dangerouslySetInnerHTML={{
-            __html:
-              '<div id="amzn-assoc-ad-47c5b6c8-a176-4322-8d7c-c713a815c599"></div><script  async  src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=47c5b6c8-a176-4322-8d7c-c713a815c599"></script>',
-          }}
         />
       </div>
     </>
