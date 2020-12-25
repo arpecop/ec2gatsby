@@ -6,5 +6,5 @@ path: /niniheartsss
 ---
 
 niniheartsss
-[{"title":"nietani   (@niniheartsss) | Twitter","url":"https://twitter.com/niniheartsss?lang=en"},{"title":"nietani   (@niniheartss) • Instagram photos and videos","url":"https://www.instagram.com/niniheartss/?hl=en"},{"title":"nietani   (@niniheartss) • Снимки и видеоклипове в Instagram","url":"https://www.instagram.com/niniheartss/?hl=bg"},{"title":"Old Tweets: niniheartsss - Tweet Tunnel","url":"https://tweettunnel.com/niniheartsss"},{"title":"Nietani/niniheartsss - Fresno_Girls - Reddit","url":"https://www.reddit.com/r/Fresno_Girls/comments/jhdivk/nietanininiheartsss/"}]
+[{"title":"Ninehearts","url":"https://ninehearts.com/"},{"title":"Ninehearts Group - Home | Facebook","url":"https://www.facebook.com/9hearts/"},{"title":"Nine Hearts - Home | Facebook","url":"https://www.facebook.com/pages/category/App-Page/Nine-Hearts-1598995650348692/"},{"title":"The 9th of Nine Hearts | Banco de Gaia","url":"https://bancodegaia.bandcamp.com/album/the-9th-of-nine-hearts"},{"title":"Nine Hearts NE (@nineheartsne) • Instagram photos and videos","url":"https://www.instagram.com/nineheartsne/?hl=bg"}]
 

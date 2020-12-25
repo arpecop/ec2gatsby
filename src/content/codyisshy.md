@@ -6,5 +6,5 @@ path: /codyisshy
 ---
 
 codyisshy
-[{"title":"cody (@CodyIsShy) | Twitter","url":"https://twitter.com/codyisshy?lang=bg"},{"title":"Media Tweets by cody (@CodyIsShy) | Twitter","url":"https://twitter.com/CodyIsShy/media"},{"title":"Facebook","url":"https://www.facebook.com/ChestnutHillLocal/photos/a.435663528997/10154072813828998/?comment_id=10154079620173998"},{"title":"[Solved] Cody was hired as an assistant accountant with Swift ...","url":"https://www.coursehero.com/tutors-problems/Communications/20876565-Cody-was-hired-as-an-assistant-accountant-with-Swift-Financial-Service/"},{"title":"kcblackstar | FanFiction","url":"https://www.fanfiction.net/u/1476577/kcblackstar"}]
+[{"title":"CODY SKY (@heyitsmec0dysky) • Instagram photos and videos","url":"https://www.instagram.com/heyitsmec0dysky/"},{"title":"Cody Sky Photography","url":"http://codyskyphoto.com/"},{"title":"Cody Sky Photo - Home | Facebook","url":"https://www.facebook.com/codyskyphoto/"},{"title":"Cody Sky Photo - Photos | Facebook","url":"https://www.facebook.com/codyskyphoto/photos/"},{"title":"Commando Cody: Sky Marshal of the Universe - Wikipedia","url":"https://en.wikipedia.org/wiki/Commando_Cody:_Sky_Marshal_of_the_Universe"}]
 
