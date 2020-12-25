@@ -6,5 +6,5 @@ path: /bbqanon
 ---
 
 bbqanon
-[{"title":"BB17 (@BBQanon) | Twitter","url":"https://twitter.com/bbqanon?lang=en"},{"title":"BBQ.anon (@BBQ_Anons) | Twitter","url":"https://twitter.com/bbq_anons?lang=en"},{"title":"BBQanon for Woke Americans a Funny Barbecue Vintage T ...","url":"https://www.amazon.com/BBQanon-Americans-Barbecue-Vintage-T-Shirt/dp/B08KPZNRV2"},{"title":"BBQanon for Woke Americans a Funny Barbecue Vintage T ...","url":"https://www.amazon.com/-/es/BBQanon-Americans-Barbecue-Vintage-T-Shirt/dp/B08KPZNRV2"},{"title":"BBQAnon in full swing right now: ontario - Reddit","url":"https://www.reddit.com/r/ontario/comments/k1k3fd/bbqanon_in_full_swing_right_now/"}]
+[{"title":"QAnon – Уикипедия","url":"https://bg.wikipedia.org/wiki/QAnon"},{"title":"QAnon - Wikipedia","url":"https://en.wikipedia.org/wiki/QAnon"},{"title":"What is QAnon? What does WWG1WGA mean? The ...","url":"https://www.cbsnews.com/news/what-is-the-qanon-conspiracy-theory/"},{"title":"What Is QAnon, the Viral Pro-Trump Conspiracy Theory? - The ...","url":"https://www.nytimes.com/article/what-is-qanon.html"},{"title":"QAnon Is More Important Than You Think - The Atlantic","url":"https://www.theatlantic.com/magazine/archive/2020/06/qanon-nothing-can-stop-what-is-coming/610567/"}]
 

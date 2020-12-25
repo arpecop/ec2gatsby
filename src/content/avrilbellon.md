@@ -6,5 +6,5 @@ path: /avrilbellon
 ---
 
 avrilbellon
-[{"title":"Bellon Avril (@AvrilBellon) · Twitter","url":"https://twitter.com/AvrilBellon?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"},{"title":"AvrilBellon","url":"https://incubator.netlify.app/u/AvrilBellon"},{"title":"Twitter - Hello Antananarivo","url":"https://www.helloantananarivo.com/tweets?url=AvrilBellon"},{"title":"Twitter - Hello Madagascar","url":"https://www.hellomadagascar.com/tweets?url=AvrilBellon"},{"title":"Twitter - Hello SaintBarthelemy","url":"https://www.www.hellosaintbarthelemy.com/tweets?url=AvrilBellon"}]
+[{"title":"Bellon Avril (@AvrilBellon) | Twitter","url":"https://twitter.com/avrilbellon?lang=bg"},{"title":"Bellon Avril в Twitter: \"https://t.co/jMAwqYbW6U\"","url":"https://twitter.com/avrilbellon/status/1250328733262569472?lang=bg"},{"title":"Twitter - Hello Antananarivo","url":"https://www.helloantananarivo.com/tweets?url=AvrilBellon"},{"title":"Twitter - Hello Madagascar","url":"https://www.hellomadagascar.com/tweets?url=AvrilBellon"},{"title":"Twitter - Hello Tahiti","url":"https://www.wwww.hellotahiti.com/tweets?url=AvrilBellon"}]
 
