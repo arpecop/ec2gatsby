@@ -54,7 +54,7 @@ const BlogContent = styled.div`
   }
 `
 
-const BlogList = ({ key, fluid, title, excerpt, path, date, alt }) => {
+const BlogList = ({ key, title, excerpt, path }) => {
   return (
     <BlogItem key={key}>
       <BlogTitle>

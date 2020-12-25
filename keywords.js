@@ -1,11 +1,5 @@
 const fs = require("fs")
 const keywords = [
-  "sebbosch13",
-  "swesex",
-  "#alterpampanga",
-  "egypt1327",
-  "achor32020",
-  "laurenseegz",
   "humanteddybear1",
   "slummamii",
   "cometson_sally",
