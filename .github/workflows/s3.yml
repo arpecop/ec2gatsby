@@ -1,0 +1,12 @@
+name: s3
+
+on:
+  push:
+    branches:
+      - gh-pages
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "mypath"
