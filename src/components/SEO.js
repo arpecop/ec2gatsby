@@ -48,13 +48,6 @@ const SEO = ({ title, description, lang, image, article }) => {
         <meta name="twitter:description" content={seo.description} />
       )}
       {seo.image && <meta name="twitter:image" content={seo.image} />}
-      <script type="text/javascript">
-        amzn_assoc_ad_type = "link_enhancement_widget"; amzn_assoc_tracking_id =
-        "arpecop0c-20"; amzn_assoc_linkid = "4cc6d839718ef9cccfa8651a4deb761d";
-        amzn_assoc_placement = ""; amzn_assoc_marketplace = "amazon";
-        amzn_assoc_region = "US";
-      </script>
-      <script src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&Operation=GetScript&ID=OneJS&WS=1&MarketPlace=US"></script>
     </Helmet>
   )
 }
