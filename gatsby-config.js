@@ -78,5 +78,7 @@ module.exports = {
         path: `${__dirname}/src/content/images`,
       },
     },
+    "gatsby-plugin-no-javascript",
+    "gatsby-plugin-no-javascript-utils",
   ],
 }
