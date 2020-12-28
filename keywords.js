@@ -1026,7 +1026,7 @@ path: /${element}
 ---
 
 ${element}
-${lorem.generateParagraphs(7)}
+${lorem.generateParagraphs(7).replace("irure", element)}
 
 `,
       function(err) {
