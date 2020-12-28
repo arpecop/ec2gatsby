@@ -8,7 +8,8 @@ import "../scss/main.scss"
 export default ({ children }) => (
   <>
     <Header />
-    <div style={{ backgroundColor: "#FBBB15", padding: 10 }}>
+
+    <div style={{ border: "2px solid #FBBB15", backgroundColor: "#f5f6fa" }}>
       <img
         src="/img/amazon.jpg"
         alt="amazon hot deals"
@@ -17,7 +18,7 @@ export default ({ children }) => (
       <h1 style={{ padding: 0, margin: 0, textAlign: "center" }}>
         Shop from Amazon hot Deals for 2021
       </h1>
-      <ul>
+      <ul style={{ width: "50%", float: "right" }}>
         <li>
           <a href="https://amzn.to/3mPKTYr" rel="nofollow">
             Home & Kitchen
@@ -43,6 +44,8 @@ export default ({ children }) => (
             Clothing, Shoes & Jewelry
           </a>
         </li>
+      </ul>
+      <ul>
         <li>
           <a href="https://amzn.to/3hkrtdd" rel="nofollow">
             Baby
