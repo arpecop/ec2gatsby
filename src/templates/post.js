@@ -13,11 +13,6 @@ export default function Template({ data }) {
       <div className="blog-post">
         <h1>{frontmatter.title}</h1>
 
-        {/* Check if date or author has been declared in MD file
-        If so, render the meta */}
-
-        {/* If featured image is present, render featured image */}
-
         <div
           className="blog-post-content"
           dangerouslySetInnerHTML={{ __html: html }}

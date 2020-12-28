@@ -8,8 +8,15 @@ import "../scss/main.scss"
 export default ({ children }) => (
   <>
     <Header />
-    <main className="main-body">
-      <h1>Shop from Amazon Deals</h1>
+    <div style={{ backgroundColor: "#FBBB15", padding: 10 }}>
+      <img
+        src="/img/amazon.jpg"
+        alt="amazon hot deals"
+        style={{ maxWidth: "100%" }}
+      />
+      <h1 style={{ padding: 0, margin: 0, textAlign: "center" }}>
+        Shop from Amazon hot Deals for 2021
+      </h1>
       <ul>
         <li>
           <a href="https://amzn.to/3mPKTYr" rel="nofollow">
@@ -62,8 +69,8 @@ export default ({ children }) => (
           </a>
         </li>
       </ul>
-      {children}
-    </main>
+    </div>
+    <main className="main-body">{children}</main>
     <Footer />
   </>
 )
