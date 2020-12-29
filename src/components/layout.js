@@ -10,11 +10,13 @@ export default ({ children }) => (
     <Header />
 
     <div style={{ border: "2px solid #FBBB15", backgroundColor: "#f5f6fa" }}>
-      <img
-        src="/img/amazon.jpg"
-        alt="amazon hot deals"
-        style={{ maxWidth: "100%" }}
-      />
+      <div style={{ textAlign: "center", backgroundColor: "#FBBB15" }}>
+        <img
+          src="/img/amazon.jpg"
+          alt="amazon hot deals"
+          style={{ maxWidth: "100%" }}
+        />
+      </div>
       <h1 style={{ padding: 0, margin: 0, textAlign: "center" }}>
         Shop from Amazon hot Deals for 2021
       </h1>
